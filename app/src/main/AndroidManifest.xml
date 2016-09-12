@@ -11,7 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:name=".FireApp">
-        <activity android:name=".MainActivity" >
+        <activity android:name=".MainActivity6" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

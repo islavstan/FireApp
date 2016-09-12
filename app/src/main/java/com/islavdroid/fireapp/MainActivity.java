@@ -33,6 +33,7 @@ private Button mSendData;
 
                 //добавляет каждый раз новый ключ автоматом к нашему значению, а не переписывает существующее значение
               //  mRootRef.push().setValue(value);
+
                 //указываем значение к ключу
                 childRef.setValue(value);
             }
